@@ -1,7 +1,10 @@
 # ig-crawler
 To crawl messages information in a given page.
+
 Need account/password when the program executes
+
 The program will not transmit your account/password to anyone by any method.
+
 It just use them to login IG
 # How to Use
 First, you need to download the correct version of chromedriver w.r.t your Chrome.
