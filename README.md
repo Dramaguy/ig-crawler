@@ -3,7 +3,7 @@ To crawl messages information in a given page.
 
 Need account/password when the program executes
 
-The program will not transmit your account/password to anyone by any method.
+The program will NOT transmit your account/password to anyone by any method.
 
 It just use them to login IG
 # How to Use
